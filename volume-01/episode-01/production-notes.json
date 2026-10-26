@@ -1,0 +1,11 @@
+{
+  "artTool": "Built-in image_gen",
+  "corrections": [
+    {
+      "page": 4,
+      "reason": "修正第三格中陈武与未具名老镖师的造型混淆",
+      "prompt": "Edit image 1 (the full comic page numbered 04) with a tightly localized correction. Image 2 (page 03) is supporting identity reference ONLY. In image 1's THIRD PANEL, the man whose wrist is being restrained by white-haired 清虚 is incorrectly drawn as the friendly escort with a tan headwrap and brown shirt. REPLACE ONLY THAT PRISONER'S FACE, HAIR AND COSTUME so he is 陈武: the villain shown at the top of image 2 and in panel 2 of image 1, adult Chinese man angular face, narrow black mustache and short pointed goatee, BLACK TOPKNOT with NO tan headwrap, DARK PINE GREEN LAMELLAR ARMOR over BLACK ROBE, bronze details. Keep his restrained body pose and expression, and keep the elder's hands correctly gripping his wrist. Also keep the fifth panel villain identity matching the corrected prisoner if needed. Preserve ALL existing Chinese words exactly, all panel boundaries, page number 04, colors, composition, elder and young hero, injured hero, and every other visual detail. No new captions, no extra panels. This is an identity continuity correction, not redesign."
+    }
+  ],
+  "continuity": "本集不提前揭露后期身世、不提前出现南疆及海外人物。对白及过场为同人改编。"
+}

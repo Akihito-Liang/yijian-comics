@@ -1,0 +1,79 @@
+[
+  {
+    "number": 1,
+    "source": "/Users/akihito/comics/volume-01/episode-01/assets/page-01.png",
+    "type": "reuse",
+    "originalPage": 1
+  },
+  {
+    "number": 2,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-65a32fe7-e506-4691-acb8-5ea834b56c58.png",
+    "type": "new",
+    "correctionPrompt": null
+  },
+  {
+    "number": 3,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-fef5ff2d-7895-41c7-a9cc-4471ecc5e7ca.png",
+    "type": "renumber",
+    "originalPage": 2,
+    "editPrompt": "Use case: text-localization. Edit this finished comic page with ONE tiny change ONLY: change the small bottom-center footer page number from '02' to '03'. Match original typeface, size, color and position. Preserve all artwork, faces, identities, outfits, panel borders, panel layout, dialogue, captions and colors exactly unchanged. Do not redraw the panels or change any Chinese text. Keep portrait 1024x1536. Input image is the edit target, not a style reference."
+  },
+  {
+    "number": 4,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-3b3e35fd-4c2a-4ac3-80d0-7d238ec5c338.png",
+    "type": "new",
+    "correctionPrompt": null
+  },
+  {
+    "number": 5,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-db8c55f5-64fd-4ac7-999f-ad955f20d34f.png",
+    "type": "new",
+    "correctionPrompt": "Use case: identity-preserve. Edit this finished comic page ONLY to distinguish the cart driver from the veteran escort. In panel1 (top wide) the frightened man crouching at far RIGHT beside wheel, and in panel5 (bottom LEFT) the frightened man being helped by young blue-clad protagonist, are BOTH THE SAME CART DRIVER: middle-aged wiry Chinese man, BALD UNCOVERED HEAD, clean shaven thin face, dusty plain light brown clothing. Remove their tan headwrap and facial stubble/goatee and make their face match this bald driver description, retaining facial fear, exact position and pose. In panel4 the heroic swordsman FIGHTING WITH SABER MUST KEEP tan cloth headwrap, stubble/goatee, square face and all original appearance: he is the veteran escort, a DIFFERENT person. Preserve absolutely everything else including young protagonist, villain in last panel, dialogue, panel layout, all swords, action, colors, footer05. No additional panels or changes."
+  },
+  {
+    "number": 6,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-5db3a8b1-dc79-4c35-8ec7-0e1f5ba4a1a8.png",
+    "type": "renumber",
+    "originalPage": 3,
+    "editPrompt": "Use case: text-localization. Edit this finished comic page with ONE tiny change ONLY: change the small bottom-center footer page number from '03' to '06'. Match original typeface, size, color and position. Preserve all artwork, faces, identities, outfits, panel borders, panel layout, dialogue, captions and colors exactly unchanged. Do not redraw the panels or change any Chinese text. Keep portrait 1024x1536. Input image is the edit target, not a style reference."
+  },
+  {
+    "number": 7,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-287bc646-0220-4c23-ab29-1382f0f79d5f.png",
+    "type": "new",
+    "correctionPrompt": null
+  },
+  {
+    "number": 8,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-40547dbd-dac4-40ec-a95a-d8a2078515e6.png",
+    "type": "renumber",
+    "originalPage": 4,
+    "editPrompt": "Use case: text-localization. Edit this finished comic page with ONE tiny change ONLY: change the small bottom-center footer page number from '04' to '08'. Match original typeface, size, color and position. Preserve all artwork, faces, identities, outfits, panel borders, panel layout, dialogue, captions and colors exactly unchanged. Do not redraw the panels or change any Chinese text. Keep portrait 1024x1536. Input image is the edit target, not a style reference."
+  },
+  {
+    "number": 9,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-760a1706-54db-44d8-b697-2968a5f81a94.png",
+    "type": "new",
+    "correctionPrompt": null
+  },
+  {
+    "number": 10,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-568edd12-62a6-4c9a-a777-68164c3beae9.png",
+    "type": "renumber",
+    "originalPage": 5,
+    "editPrompt": "Use case: text-localization. Edit this finished comic page with ONE tiny change ONLY: change the small bottom-center footer page number from '05' to '10'. Match original typeface, size, color and position. Preserve all artwork, faces, identities, outfits, panel borders, panel layout, dialogue, captions and colors exactly unchanged. Do not redraw the panels or change any Chinese text. Keep portrait 1024x1536. Input image is the edit target, not a style reference."
+  },
+  {
+    "number": 11,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-782888b3-98d1-4831-b57b-85d06aa65235.png",
+    "type": "new",
+    "correctionPrompt": "Use case: text-localization. Refine only lettering in this finished Chinese comic page, preserving EVERY illustration and page layout exactly. Remove script-like speaker labels from FIVE text areas: 1 top-left replace entire text '宇文逸（梦中）：等我一下……水还没送到。' with '等我一下……水还没送到。'; 2 second row left bubble remove prefix '回忆中的声音：', leaving '平平安安把人送到，才算本事。'; 3 second row right upper caption remove '宇文逸（心声）：', leaving '我抓住了。'; 4 second row right lower caption remove '宇文逸（心声）：', leaving '为什么……还是留不住？'; 5 third row elder speech remove '清虚：', leaving '莫散了这口气。'. Recenter remaining text elegantly inside existing boxes. Do not add names anywhere. Keep ALL other captions exactly, all faces clothing scenery, artwork panel borders, white watercolor dream border and footer11. Portrait 1024x1536."
+  },
+  {
+    "number": 12,
+    "source": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-9562a93d-d69f-49f4-bb3f-85991163c2d8.png",
+    "type": "renumber",
+    "originalPage": 6,
+    "editPrompt": "Use case: text-localization. Edit this finished comic page with ONE tiny change ONLY: change the small bottom-center footer page number from '06' to '12'. Match original typeface, size, color and position. Preserve all artwork, faces, identities, outfits, panel borders, panel layout, dialogue, captions and colors exactly unchanged. Do not redraw the panels or change any Chinese text. Keep portrait 1024x1536. Input image is the edit target, not a style reference."
+  }
+]

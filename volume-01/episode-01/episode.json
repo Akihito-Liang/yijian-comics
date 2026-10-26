@@ -1,0 +1,100 @@
+{
+  "series": "逸剑风云决 · 同人漫画",
+  "volume": "第一卷 · 初入江湖",
+  "episode": "第一集 · 葬龙谷的风",
+  "edition": "彩色试读版 v1",
+  "adaptation": "基于游戏开场关键事件的同人改编。对白、镜头、未具名镖师和过场细节为本次创作；人物造型为试读版设计，不视为官方设定。",
+  "sources": [
+    {
+      "title": "3DM：葬龙谷之变",
+      "url": "https://www.3dmgame.com/gl/3904744_2.html"
+    },
+    {
+      "title": "游民星空：梧桐村开场",
+      "url": "https://www.gamersky.com/handbook/202309/1647777.shtml"
+    }
+  ],
+  "generator": "内置 image_gen；各页 prompt 字段保存完整绘图提示词。",
+  "pages": [
+    {
+      "number": 1,
+      "title": "谷中行客",
+      "beats": [
+        "关外，葬龙谷。",
+        "宇文逸：过了这道谷口，就到中原了？\n老镖师：还早。先把这一趟镖走稳。",
+        "老镖师：走镖的，先看脚下，再看远处。",
+        "老镖师：水省着喝。进了谷，没地方补。\n宇文逸：车里的客人还没喝。",
+        "宇文逸：老人家，润润嗓子吧。\n车中人：你自己呢？\n宇文逸：我年轻，扛得住。"
+      ],
+      "prompt": "Use case: illustration-story. Create one finished professional full-color Chinese wuxia manhua page, portrait aspect ratio 2:3, high resolution. Hand-inked confident variable-width linework, textured restrained watercolor and cel shading, cinematic realistic anatomy, nuanced expressive faces, elegant detailed ancient Chinese landscapes, aged ivory gutters, muted jade teal, dusty ochre and ink blue, occasional vermilion. NOT pixel art, not 3D, not chibi. Chinese reading order LEFT TO RIGHT, TOP TO BOTTOM. Clear 5-panel storytelling with cinematic wide panels and closeups, not a uniform grid. All dialogue in beautifully legible SIMPLIFIED CHINESE, hand-lettered style but clean, no duplicated text or extra dialogue. No watermark, no English. Character design continuity: 宇文逸 is a young adult Chinese man, lean, dark eyes, black hair in a high ponytail bound with a dark teal ribbon, two loose forelocks, faded blue-grey travel tunic with ivory cross collar, short dark teal sleeveless outer vest, dark brown belt, linen wrist wraps, plain sword at hip, no jewelry or armor. The veteran escort is a middle-aged Chinese man with square face and stubble, tan cloth headwrap, dusty brown short robe. 清虚 is an elderly Chinese Taoist with long white eyebrows, narrow wise face, long white beard, silver hair topknot with plain wooden pin, pale grey Daoist robes with muted navy trim. This is a fan-adaptation of 逸剑风云决; keep the first episode grounded and human.\nPAGE 1 OF 6. Episode title integrated elegantly in sky of first panel: small '第一卷 · 初入江湖', large '第一集　葬龙谷的风'. Five panels with ample space for text. Panel 1 top full-width establishing panoramic: tiny wooden covered carriage and four escorts in towering arid canyon late afternoon, winding road, huge scale, dry wind. Small caption: '关外，葬龙谷。' Panel 2 middle left medium shot: 宇文逸 walks beside wagon, curious hopeful face, veteran ahead holding reins. Young man says '过了这道谷口，就到中原了？' Veteran says '还早。先把这一趟镖走稳。' Panel 3 middle right closeup of young man's worn boots and a small pebble he kicks on the road, scarf rustles; off-panel veteran bubble '走镖的，先看脚下，再看远处。' Panel 4 lower wide panel: veteran hands young man a water skin beside wagon, friendly but weathered. Veteran says '水省着喝。进了谷，没地方补。' Young man glances toward wagon curtain and says '车里的客人还没喝。' Panel 5 bottom full-width intimate: young man offers water skin through half-open dark carriage curtain, elderly traveler's hand receiving, only hint of beard visible, no identity reveal. Young man says '老人家，润润嗓子吧。' A small reply from carriage: '你自己呢？' Young man's reply: '我年轻，扛得住。' Footer page number '01'. Avoid any ambush or violence yet.",
+      "file": "assets/page-01.png"
+    },
+    {
+      "number": 2,
+      "title": "不请自来的江湖",
+      "beats": [
+        "车中人：第一次出远门？\n宇文逸：想亲眼看看，江湖究竟有多大。",
+        "车中人：大到你走不完，也小到容不下一步退让。\n宇文逸：那也总该有讲理的地方。",
+        "老镖师：停。鸟怎么都惊起来了？",
+        "天龙帮众：方阔海！今日看你往哪里走！\n玄火教众：就凭你们？",
+        "老镖师：旗放低！我们只护客，不掺和。\n宇文逸：右边还有条路，我去看——\n老镖师：回来！"
+      ],
+      "file": "assets/page-02.png",
+      "prompt": "Use case: illustration-story. Create one finished professional full-color Chinese wuxia manhua page, portrait aspect ratio 2:3, high resolution. Hand-inked confident variable-width linework, textured restrained watercolor and cel shading, cinematic realistic anatomy, nuanced expressive faces, elegant detailed ancient Chinese landscapes, aged ivory gutters, muted jade teal, dusty ochre and ink blue, occasional vermilion. NOT pixel art, not 3D, not chibi. Chinese reading order LEFT TO RIGHT, TOP TO BOTTOM. Clear 5-panel storytelling with cinematic wide panels and closeups, not a uniform grid. All dialogue in beautifully legible SIMPLIFIED CHINESE, hand-lettered style but clean, no duplicated text or extra dialogue. No watermark, no English. Character design continuity: 宇文逸 is a young adult Chinese man, lean, dark eyes, black hair in a high ponytail bound with a dark teal ribbon, two loose forelocks, faded blue-grey travel tunic with ivory cross collar, short dark teal sleeveless outer vest, dark brown belt, linen wrist wraps, plain sword at hip, no jewelry or armor. The veteran escort is a middle-aged Chinese man with square face and stubble, tan cloth headwrap, dusty brown short robe. 清虚 is an elderly Chinese Taoist with long white eyebrows, narrow wise face, long white beard, silver hair topknot with plain wooden pin, pale grey Daoist robes with muted navy trim. This is a fan-adaptation of 逸剑风云决; keep the first episode grounded and human.\nReference image role: character identity and art style only; render new scenes, not copies of its panels. PAGE 2 OF 6. Five panels. Direct continuation in canyon. Panel1 over shoulder at wagon curtain: young man smiles to shadowed elderly traveler, only beard seen. Panel2 closeup water skin and old hand, hint of youth's optimistic face, traveler not fully revealed. Panel3 canyon sky startled birds, veteran pulling reins tense. Panel4 large panoramic across road: two rival armed wuxia factions clash farther ahead: dark teal and black 天龙帮 fighters, crimson and brown 玄火教 fighters led by stocky adult man 方阔海 in crimson robe wielding heavy saber. Escort wagon remains clearly separate. Panel5 veteran lowers escort flag and pulls young man's sleeve away from narrow side path. Mood turns from warm ochre to cold shadows. No poison or explosion yet.\nRender EXACT following Chinese text once, each entry assigned to corresponding panel, speaker names only for attribution and need not be printed in bubbles:\nPanel 1: 车中人：第一次出远门？\n宇文逸：想亲眼看看，江湖究竟有多大。\nPanel 2: 车中人：大到你走不完，也小到容不下一步退让。\n宇文逸：那也总该有讲理的地方。\nPanel 3: 老镖师：停。鸟怎么都惊起来了？\nPanel 4: 天龙帮众：方阔海！今日看你往哪里走！\n玄火教众：就凭你们？\nPanel 5: 老镖师：旗放低！我们只护客，不掺和。\n宇文逸：右边还有条路，我去看——\n老镖师：回来！\nSmall centered footer page number '02'. No repeated episode title on this page."
+    },
+    {
+      "number": 3,
+      "title": "一场无妄之灾",
+      "beats": [
+        "陈武：放箭。",
+        "弓弦声沿着两侧石壁，一声接一声响起。\n老镖师：趴下！护住车！",
+        "宇文逸：抓紧我！再往里一点！",
+        "宇文逸：怎么……这么冷？",
+        "宇文逸：我们只是路过……",
+        "车中人：住手。"
+      ],
+      "file": "assets/page-03.png",
+      "prompt": "Use case: illustration-story. Create one finished professional full-color Chinese wuxia manhua page, portrait aspect ratio 2:3, high resolution. Hand-inked confident variable-width linework, textured restrained watercolor and cel shading, cinematic realistic anatomy, nuanced expressive faces, elegant detailed ancient Chinese landscapes, aged ivory gutters, muted jade teal, dusty ochre and ink blue, occasional vermilion. NOT pixel art, not 3D, not chibi. Chinese reading order LEFT TO RIGHT, TOP TO BOTTOM. Clear 5-panel storytelling with cinematic wide panels and closeups, not a uniform grid. All dialogue in beautifully legible SIMPLIFIED CHINESE, hand-lettered style but clean, no duplicated text or extra dialogue. No watermark, no English. Character design continuity: 宇文逸 is a young adult Chinese man, lean, dark eyes, black hair in a high ponytail bound with a dark teal ribbon, two loose forelocks, faded blue-grey travel tunic with ivory cross collar, short dark teal sleeveless outer vest, dark brown belt, linen wrist wraps, plain sword at hip, no jewelry or armor. The veteran escort is a middle-aged Chinese man with square face and stubble, tan cloth headwrap, dusty brown short robe. 清虚 is an elderly Chinese Taoist with long white eyebrows, narrow wise face, long white beard, silver hair topknot with plain wooden pin, pale grey Daoist robes with muted navy trim. This is a fan-adaptation of 逸剑风云决; keep the first episode grounded and human.\nReference image role: character identity and art style only; render new scenes, not copies of its panels. PAGE 3 OF 6. Six panels. Introduce 陈武: adult man 40s, angular face, narrow black mustache, black hair topknot, dark pine-green lamellar vest over black robes, bronze belt. Panel1 small strip: 陈武 high on ledge signals archers with dropped hand. Panel2 large dynamic arrows from cliffs, veteran shoves young man down near wagon. Panel3 young 宇文逸 pulls wounded unnamed brown-robed escort behind wagon wheel, only small bloodstain no gore. Panel4 arrow lodged in young man's shoulder, frost and white cold breath contrast warm desert. Panel5 red-robed 方阔海 retreats in distance, flag fallen, protagonist kneels near carriage and whispers. Panel6 closeup elderly traveler's eyes in carriage shadow under white eyebrows. No explosion yet.\nRender EXACT following Chinese text once, each entry assigned to corresponding panel, speaker names only for attribution and need not be printed in bubbles:\nPanel 1: 陈武：放箭。\nPanel 2: 弓弦声沿着两侧石壁，一声接一声响起。\n老镖师：趴下！护住车！\nPanel 3: 宇文逸：抓紧我！再往里一点！\nPanel 4: 宇文逸：怎么……这么冷？\nPanel 5: 宇文逸：我们只是路过……\nPanel 6: 车中人：住手。\nSmall centered footer page number '03'. No repeated episode title on this page."
+    },
+    {
+      "number": 4,
+      "title": "车中人",
+      "beats": [
+        "衣袖卷开箭雨，老人从车中掠出，将宇文逸护在身后。",
+        "陈武：武当……清虚？！\n清虚：争斗与你们之外的人，有何相干？",
+        "清虚：寒冰蟾之毒。解药在哪里？",
+        "宇文逸：先……先救他们……\n清虚：别说话，守住这一口气。",
+        "陈武：你救得了一个……救得了所有人吗？"
+      ],
+      "file": "assets/page-04.png",
+      "prompt": "Use case: illustration-story. Create one finished professional full-color Chinese wuxia manhua page, portrait aspect ratio 2:3, high resolution. Hand-inked confident variable-width linework, textured restrained watercolor and cel shading, cinematic realistic anatomy, nuanced expressive faces, elegant detailed ancient Chinese landscapes, aged ivory gutters, muted jade teal, dusty ochre and ink blue, occasional vermilion. NOT pixel art, not 3D, not chibi. Chinese reading order LEFT TO RIGHT, TOP TO BOTTOM. Clear 5-panel storytelling with cinematic wide panels and closeups, not a uniform grid. All dialogue in beautifully legible SIMPLIFIED CHINESE, hand-lettered style but clean, no duplicated text or extra dialogue. No watermark, no English. Character design continuity: 宇文逸 is a young adult Chinese man, lean, dark eyes, black hair in a high ponytail bound with a dark teal ribbon, two loose forelocks, faded blue-grey travel tunic with ivory cross collar, short dark teal sleeveless outer vest, dark brown belt, linen wrist wraps, plain sword at hip, no jewelry or armor. The veteran escort is a middle-aged Chinese man with square face and stubble, tan cloth headwrap, dusty brown short robe. 清虚 is an elderly Chinese Taoist with long white eyebrows, narrow wise face, long white beard, silver hair topknot with plain wooden pin, pale grey Daoist robes with muted navy trim. This is a fan-adaptation of 逸剑风云决; keep the first episode grounded and human.\nReference image role: character identity and art style only; render new scenes, not copies of its panels. PAGE 4 OF 6. Five panels. 陈武 appearance: adult angular face, narrow black mustache, black topknot, pine-green lamellar vest over black robes bronze belt. Panel1 large cinematic: 清虚 leaps from wagon, sweeping grey sleeves navy trim redirect arrows through restrained circular air motion, shields kneeling poisoned young 宇文逸. Not superhero lasers. Panel2 陈武 shocked face and elder poised. Panel3 elder immobilizes villain by wrist control while glancing at wounded young man's frosty shoulder. Panel4 young man's cold hand reaches toward fallen escorts off frame, elder speaks gently. Panel5 ominous closeup: villain's free left hand reaches fuse hidden in rock crevice, other wrist restrained; villain grin partly seen. No explosion yet.\nRender EXACT following Chinese text once, each entry assigned to corresponding panel, speaker names only for attribution and need not be printed in bubbles:\nPanel 1: 衣袖卷开箭雨，老人从车中掠出，将宇文逸护在身后。\nPanel 2: 陈武：武当……清虚？！\n清虚：争斗与你们之外的人，有何相干？\nPanel 3: 清虚：寒冰蟾之毒。解药在哪里？\nPanel 4: 宇文逸：先……先救他们……\n清虚：别说话，守住这一口气。\nPanel 5: 陈武：你救得了一个……救得了所有人吗？\nSmall centered footer page number '04'. No repeated episode title on this page."
+    },
+    {
+      "number": 5,
+      "title": "只剩一个人的归途",
+      "beats": [
+        "清虚：不好！",
+        "轰——！清虚携宇文逸跃离爆炸。",
+        "宇文逸：还有人……他们还在里面……",
+        "清虚：孩子，别回头。",
+        "出发时，谁都说，这是一趟寻常的镖。"
+      ],
+      "file": "assets/page-05.png",
+      "prompt": "Use case: illustration-story. Create one finished professional full-color Chinese wuxia manhua page, portrait aspect ratio 2:3, high resolution. Hand-inked confident variable-width linework, textured restrained watercolor and cel shading, cinematic realistic anatomy, nuanced expressive faces, elegant detailed ancient Chinese landscapes, aged ivory gutters, muted jade teal, dusty ochre and ink blue, occasional vermilion. NOT pixel art, not 3D, not chibi. Chinese reading order LEFT TO RIGHT, TOP TO BOTTOM. Clear 5-panel storytelling with cinematic wide panels and closeups, not a uniform grid. All dialogue in beautifully legible SIMPLIFIED CHINESE, hand-lettered style but clean, no duplicated text or extra dialogue. No watermark, no English. Character design continuity: 宇文逸 is a young adult Chinese man, lean, dark eyes, black hair in a high ponytail bound with a dark teal ribbon, two loose forelocks, faded blue-grey travel tunic with ivory cross collar, short dark teal sleeveless outer vest, dark brown belt, linen wrist wraps, plain sword at hip, no jewelry or armor. The veteran escort is a middle-aged Chinese man with square face and stubble, tan cloth headwrap, dusty brown short robe. 清虚 is an elderly Chinese Taoist with long white eyebrows, narrow wise face, long white beard, silver hair topknot with plain wooden pin, pale grey Daoist robes with muted navy trim. This is a fan-adaptation of 逸剑风云决; keep the first episode grounded and human.\nReference image role: character identity and art style only; render new scenes, not copies of its panels. PAGE 5 OF 6. Five panels. Panel1 closeup fuse burns through crevice. Panel2 HUGE cinematic canyon explosion of dust and amber flame, wooden carriage splinters, 清虚 grey robe and navy trim cradles injured blue-clothed young 宇文逸 and leaps out, diagonal composition. Modest Chinese sound effect 轰——. No dismemberment, no burning people. Panel3 young man's outstretched hand foreground reaching towards a small battered leather water skin and fallen escort banner in distant dusty ground. Panel4 outside canyon elder kneeling supports young man who tries and fails to rise, grey dust plume behind, emotional helplessness. Panel5 bottom wide dreamlike sky and drifting ash seen by young man losing consciousness, restrained elegiac beauty. Never make faces triumphant.\nRender EXACT following Chinese text once, each entry assigned to corresponding panel, speaker names only for attribution and need not be printed in bubbles:\nPanel 1: 清虚：不好！\nPanel 2: 轰——！清虚携宇文逸跃离爆炸。\nPanel 3: 宇文逸：还有人……他们还在里面……\nPanel 4: 清虚：孩子，别回头。\nPanel 5: 出发时，谁都说，这是一趟寻常的镖。\nSmall centered footer page number '05'. No repeated episode title on this page."
+    },
+    {
+      "number": 6,
+      "title": "梧桐有声",
+      "beats": [
+        "一个月后。江南，梧桐村。\n檐下药香，屋外鸟鸣。",
+        "清虚：吟风，他体内的寒毒还在。此事，只能托付给你。\n江吟风：人先留下。其他的，等救活了再说。",
+        "江小彤：爹！他醒了！",
+        "宇文逸：我的同伴呢？",
+        "江小彤：先喝一点。还烫着，慢些。",
+        "江吟风：想活下去，就先把这口气稳住。\n第一集 完 · 下集《梧桐村里有个姑娘》"
+      ],
+      "file": "assets/page-06.png",
+      "prompt": "Use case: illustration-story. Create one finished professional full-color Chinese wuxia manhua page, portrait aspect ratio 2:3, high resolution. Hand-inked confident variable-width linework, textured restrained watercolor and cel shading, cinematic realistic anatomy, nuanced expressive faces, elegant detailed ancient Chinese landscapes, aged ivory gutters, muted jade teal, dusty ochre and ink blue, occasional vermilion. NOT pixel art, not 3D, not chibi. Chinese reading order LEFT TO RIGHT, TOP TO BOTTOM. Clear 5-panel storytelling with cinematic wide panels and closeups, not a uniform grid. All dialogue in beautifully legible SIMPLIFIED CHINESE, hand-lettered style but clean, no duplicated text or extra dialogue. No watermark, no English. Character design continuity: 宇文逸 is a young adult Chinese man, lean, dark eyes, black hair in a high ponytail bound with a dark teal ribbon, two loose forelocks, faded blue-grey travel tunic with ivory cross collar, short dark teal sleeveless outer vest, dark brown belt, linen wrist wraps, plain sword at hip, no jewelry or armor. The veteran escort is a middle-aged Chinese man with square face and stubble, tan cloth headwrap, dusty brown short robe. 清虚 is an elderly Chinese Taoist with long white eyebrows, narrow wise face, long white beard, silver hair topknot with plain wooden pin, pale grey Daoist robes with muted navy trim. This is a fan-adaptation of 逸剑风云决; keep the first episode grounded and human.\nReference image role: character identity and art style only; render new scenes, not copies of its panels. PAGE 6 OF 6. Six panels. A MONTH later. Change to warm sage and amber Jiangnan, keep same blue-clothed 宇文逸 now injured shoulder bandaged in bed and same elderly 清虚. New 江吟风 is adult Chinese man around 40, dignified strong face, black hair half tied high, short trimmed mustache and beard, off-white robe charcoal outer layer and brown belt, no armor. New 江小彤 is young teenage girl, black hair twin low ribboned bunches, modest pale apricot/coral traditional outfit, earnest face, medicine bowl. Panel1 panorama tiled roof village amid willows and mist, no characters close. Panel2 sickroom elder speaks to 江吟风 bedside. Panel3 girl holding medicine bowl sees boy awaken and calls father. Panel4 young man anxiously looks around, elder in background lowers eyes silently and 江吟风 takes bowl; poignant silence. Panel5 closeup boy's hand clenches blanket as girl sets steaming cup by bed. Panel6 wide close intimate 江吟风 checking boy's wrist; frost on fingertips beside warm tea. Closing footer: 第一集 完 / 下集 · 梧桐村里有个姑娘. 江吟风 is ALIVE, no funeral or future villains.\nRender EXACT following Chinese text once, each entry assigned to corresponding panel, speaker names only for attribution and need not be printed in bubbles:\nPanel 1: 一个月后。江南，梧桐村。\n檐下药香，屋外鸟鸣。\nPanel 2: 清虚：吟风，他体内的寒毒还在。此事，只能托付给你。\n江吟风：人先留下。其他的，等救活了再说。\nPanel 3: 江小彤：爹！他醒了！\nPanel 4: 宇文逸：我的同伴呢？\nPanel 5: 江小彤：先喝一点。还烫着，慢些。\nPanel 6: 江吟风：想活下去，就先把这口气稳住。\n第一集 完 · 下集《梧桐村里有个姑娘》\nSmall centered footer page number '06'. No repeated episode title on this page."
+    }
+  ]
+}
