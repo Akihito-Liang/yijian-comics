@@ -1,0 +1,68 @@
+{
+  "ep2": [
+    {
+      "page": 1,
+      "prompt": "只修改此页第4格床边小几：移除所有白瓷碗和杯子，只保留一块折叠布巾、朴素木桌。唯一的白水碗此时还在第5格江小彤手中，她下一页才放到桌上。第4格床尾凳上棕披肩不动，所有其他画面与文字完全不变。输出完整竖版五格页。"
+    },
+    {
+      "page": 5,
+      "prompt": "只删除此页左上角额外出现的“逸剑风云决”黑色大标志，补成同一室内木窗与墙面背景，不新增文字标志。其他五格全部保持，所有对白、人物、玉佩和深棕药碗白水碗位置不变。输出完整竖版五格页。"
+    }
+  ],
+  "ep3": [
+    {
+      "page": 1,
+      "prompt": "Use case: precise-object-edit. Edit the supplied comic page ONLY the wooden sword in the monkey close-up (second panel, middle left). Keep the page composition, all five panels, characters, color, text, and every other detail unchanged. Fix the wooden practice sword: ONE short handle, one small simple crossguard, ONE long flat wooden blade with rounded blunt tip. Monkey's hand grips the SHORT HANDLE ABOVE the crossguard, the long blade extends DOWNWARD below the hand and guard, diagonally down toward frame bottom. Handle is only one fifth the entire sword length, not a second blade. It matches the plain light brown wooden practice sword elsewhere. No extra weapons, no metal, no glow."
+    },
+    {
+      "page": 5,
+      "prompt": "Use case: precise-object-edit. Revise only the main third wide action panel and fifth catch panel of the supplied six-panel full-color comic. Keep all other four panels, all dialogue verbatim, page layout, color, character identities and costumes unchanged. MAIN THIRD PANEL: the monkey is just pushing off the right tree branch toward left rock; ONE monkey hand STILL GRIPS the wooden sword SHORT HANDLE. Xiaotong's thin natural forked twig clearly contacts the BLUNT TIP of its long wooden blade, a crisp tiny contact mark, existing 嗒！ nearby. Monkey fingers begin opening but remain visibly touching the handle: this is CONTACT, NOT already free-falling. Blade, hand, twig contact must be legible. Yuwen Yi waits at left rock, same spatial axis. The fourth close-up panel below already shows the later sword fully released and rotating; preserve it. FIFTH CATCH PANEL: show Yuwen Yi's body down to boots, both feet planted, knees slightly bent (NOT squatting or kneeling), one hand securely around sword short handle and other palm supports blunt wooden blade. His elbows draw back toward ribs to absorb downward momentum, shoulders soft, brown cape swings forward from inertia. Only one sword. Maintain young official face, brown cloak/woven shoulder ornament, both hands anatomically correct. Do not add any effects of super strength or additional text."
+    }
+  ],
+  "contact": [
+    {
+      "episode": 3,
+      "page": 5,
+      "prompt": "Use case: precise-object-edit. Change ONLY the wide THIRD panel to a tight SIDE VIEW CONTACT CLOSE-UP; all five other panels, page borders, exact dialogue and characters remain unchanged. Third panel now shows monkey torso at left and its ARM extending right, its HAND CLEARLY WRAPPING THE SHORT WOODEN SWORD HANDLE. The crossguard is immediately to the RIGHT of this gripping fist, the long BLUNT WOODEN BLADE extends horizontally RIGHT. Xiaotong's thin naturally forked twig enters from lower right and strikes the sword's far rounded tip upward, a tiny sharp contact spark-like white notch and existing 嗒！. The monkey's toes are on the visible tree branch below. Wrist beginning to bend due to contact, fingers beginning to loosen but STILL TOUCH THE HANDLE. Do NOT put the monkey's foot on the sword. Do NOT draw the sword floating or released in this third panel. Tight crop is intentional to make hand/grip/contact point clearly readable. Only one monkey, one wooden sword, one twig, no faces needed in this crop. Next panel already shows sword fully released and rotating, preserve that. Preserve other panels unchanged including the fifth full body catch with bent knees and arms absorbing momentum."
+    }
+  ],
+  "titles": [
+    {
+      "episode": 1,
+      "page": 2,
+      "prompt": "Use case: precise-object-edit. Remove ONLY the repeated chapter title 第一话 葬龙谷的风 from the top white margin of this comic page, replacing the lettering with plain white paper. Keep every panel, picture, face, dialogue, geometry, color and size exactly unchanged. No new text."
+    },
+    {
+      "episode": 1,
+      "page": 3,
+      "prompt": "Use case: precise-object-edit. Remove ONLY the repeated chapter title 第一话 葬龙谷的风 from the top white margin of this comic page, replacing the lettering with plain white paper. Keep every panel, picture, face, dialogue, geometry, color and size exactly unchanged. No new text."
+    },
+    {
+      "episode": 1,
+      "page": 5,
+      "prompt": "Use case: precise-object-edit. Remove ONLY the repeated black chapter title 第一话 葬龙谷的风 from the upper sky area of the first panel of this comic page. Reconstruct the blue sky and clouds naturally behind the removed text. Keep every panel, illustration, dialogue bubble and caption, face, weapon and hand exactly unchanged. Do not remove speech bubbles 滚开！ and 车里还有人！. No new text."
+    },
+    {
+      "episode": 1,
+      "page": 6,
+      "prompt": "Use case: precise-object-edit. Remove ONLY the repeated chapter title 第一话 葬龙谷的风 from the top white margin of this comic page, replacing the lettering with plain white paper. Keep every panel, picture, face, dialogue, geometry, color and size exactly unchanged. No new text."
+    }
+  ],
+  "identity": [
+    {
+      "episode": 1,
+      "page": 8,
+      "prompt": "Use case: precise-object-edit. Only revise the LEFT man in THIRD horizontal panel (the one who says 武当……清虚？！). This is an unverified antagonist and MUST NOT have the same recognizable face/headwrap as the friendly escort. Replace that left character with an entirely dark backlit cropped silhouette seen from BEHIND, no visible face, no detailed hat or armor, occupying same space. Leave his speech bubble unchanged. Keep Qingxu's gray hair short beard and teal black white yellow clothing exactly unchanged. Keep every other panel, all lettering, page composition and colors unchanged. No additional titles."
+    },
+    {
+      "episode": 1,
+      "page": 9,
+      "prompt": "Use case: precise-object-edit. Preserve comic page six panels, all text verbatim, Qingxu's gray bun short beard teal/black/white/yellow official design and every other picture. Correct antagonist concealment ONLY in first and sixth panels: FIRST PANEL reframe as tight closeup of Qingxu's face on left and his hand firmly controlling antagonist WRIST on right. Antagonist head and face completely OUT OF FRAME, no face visible, only his forearm, wrist and a small shoulder fragment allowed; keep both dialogue balloons at same readable positions 把解药交出来，尚有余地。 and 余地？. SIXTH PANEL keep Qingxu visible left, turn antagonist into dark cropped back-of-shoulder silhouette right, NO visible ear, nose, face or distinctive armor; retain both speech bubbles. This character has no verified reference and must not show a made-up face. Do not alter other panels, no new text, no title."
+    },
+    {
+      "episode": 1,
+      "page": 12,
+      "prompt": "Use case: precise-object-edit. Only change the blue-patterned bowl on the bedside small table in the final fourth panel to a plain undecorated WHITE PORCELAIN WATER BOWL, same exact shape, size, placement, lighting and shadow. Keep the folded towel next to it. Preserve every other element, panel, character, dialogue and color. No new text."
+    }
+  ]
+}

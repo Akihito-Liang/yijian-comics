@@ -1,0 +1,35 @@
+{
+  "tool": "built-in image_gen",
+  "revision": "action-v2",
+  "revised_pages": [
+    2,
+    3,
+    5
+  ],
+  "sources": {
+    "2": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-d97c76ef-f485-49ab-ba74-8f4af3091a09.png",
+    "3": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-16f0cf35-e4a9-409e-b7d2-8f02e3dfd7cb.png",
+    "5": "/Users/akihito/.codex/generated_images/01a176fa-1dcf-77e3-9123-17061a76a75a/exec-403466cf-ca84-4d9a-a9a6-0adf25d0a54e.png"
+  },
+  "research": [
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_2162406",
+      "type": "作者访谈"
+    },
+    {
+      "url": "https://cbgc.scol.com.cn/news/7759132",
+      "type": "作者访谈"
+    },
+    {
+      "url": "https://books.google.com/books?id=Jpl4EQAAQBAJ&printsec=frontcover",
+      "type": "Abrams 授权试读",
+      "observed": "静态对峙与拍桌冲击的反差、近景手部动作、重墨轮廓和方向性排线。仅研究一般分镜方法，未将试读页作为绘图输入。"
+    }
+  ],
+  "notes": [
+    "第2页强化前冲、鞋底摩擦和骤停后的喘息。",
+    "第3页强化近景脚掌、伸手透视与落空后的身体回收。",
+    "第5页修改拨剑方向、接取姿态，修正深蹲和鞋子连续性。",
+    "六页三十格，原版保留。"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "purpose": "第002话《梧桐梦醒》角色参考",
+  "references": [
+    {
+      "id": "A",
+      "role": "仅参考画风、线条、上色与成稿质量；不能覆盖官方人物造型",
+      "status": "沿用已制作的上一话漫画作为风格候选，非官方素材",
+      "local_path": "/Users/akihito/comics/volume-01/episode-01/expanded-v2/assets/page-12.png"
+    },
+    {
+      "id": "B",
+      "role": "宇文逸官方造型依据",
+      "status": "已核实官方Steam人物介绍原图",
+      "local_path": "/Users/akihito/comics/references/official/episode-002/B-yuwen-yi-official.gif",
+      "source_page": "https://store.steampowered.com/news/app/1876890/view/3702564318224333899",
+      "image_url": "https://clan.fastly.steamstatic.com/images/42429496/5ed4d4c7060fae57702cbe1d1262e576924eb2f1.gif",
+      "features": "黑发束髻与披发、暖棕围领披肩、单侧编织肩饰与流苏、棕色外衣；不可沿用旧漫画青绿装束。"
+    },
+    {
+      "id": "C",
+      "role": "江吟风唯一人物造型依据",
+      "status": "已核实官方Steam人物介绍原图",
+      "local_path": "/Users/akihito/comics/references/official/episode-002/C-jiang-yinfeng-official.gif",
+      "source_page": "https://store.steampowered.com/news/app/1876890/view/3702564318224333899",
+      "image_url": "https://clan.fastly.steamstatic.com/images/42429496/1521c48a01736599bd51ad6b07eb74136a7e7341.gif",
+      "features": "宽檐编织斗笠、黑色长发与发髻、少量下颌须、深蓝灰长衣、灰白交领、斜背剑；不作白须老者或浓密胡须壮汉。"
+    },
+    {
+      "id": "D",
+      "role": "梧桐村时期江小彤原版游戏造型依据",
+      "status": "已找到两处媒体刊载的原版游戏截图，相互核对一致；未找到官方独立发布高清立绘",
+      "local_path": "/Users/akihito/comics/references/official/episode-002/D-jiang-xiaotong-taptap.jpg",
+      "source_page": "https://www.taptap.cn/moment/458264437522960232",
+      "image_url": "https://img2-tc.tapimg.com/bbcode/images/4008c319a4b104c374ea6537a5d0e6f8.png/_tap_ugc.jpg",
+      "corroboration": {
+        "local_path": "/Users/akihito/comics/references/official/episode-002/D-jiang-xiaotong-wutong-game-screenshot.jpg",
+        "source_page": "https://www.3dmgame.com/gl/3904744_2.html",
+        "image_url": "https://img.3dmgame.com/uploads/images/xiaz/20240705/1720182521_724282.jpg",
+        "context": "开场江家屋内自我介绍，画面显示角色名江小彤，与装备界面人物一致。"
+      },
+      "features": "少女圆润清秀面容；黑色短发、两侧小束髻、红粉色长发带；浅粉衣袖、白色深色细边交领、玫红胸腹衣片及浅色花纹。无五仙教银冠或蓝色圣女装。",
+      "limits": "截图下半身被装备栏遮挡，不能声称已核实完整全身纹样。"
+    }
+  ],
+  "provenance_note": "B/C为官方发布；D为媒体转载的原版游戏画面，不是官方发布渠道；A为既有漫画风格候选。"
+}

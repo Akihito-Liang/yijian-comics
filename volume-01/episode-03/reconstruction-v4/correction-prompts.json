@@ -1,0 +1,38 @@
+[
+  {
+    "page": 1,
+    "prompt": "Use case: precise-object-edit. Edit ONLY second panel (middle left monkey close-up) of this five-panel comic. The monkey must hold the wooden sword with ONE hand gripping its SHORT HANDLE behind the small crossguard. Its OTHER hand rests on and grips the tree branch beneath it, not the blade. Keep the sword horizontal with blunt tip to left, short handle to right, same proportions and wood. Preserve all other panels, title, every word, colors, characters and layout exactly."
+  },
+  {
+    "page": 2,
+    "prompt": "Use case: precise-object-edit. Fix ONLY the THIRD panel, narrow horizontal strip in the middle of this four-panel comic. The young man is STARTING TO MOVE TOWARD THE LEFT, the same direction as in the bottom large panel. Draw his boot planting and upper body leaning LEFT, his visible face looking LEFT, brown cloak lagging behind to the RIGHT. The camera is low; toe displaces leaves leftward, no fall yet. He has the same costume and short softly rounded youthful chin. Preserve first two panels and bottom large panel and all exact text unchanged. Do not mirror any lettering. Only this narrow third panel's illustration changes, no new text."
+  },
+  {
+    "page": 4,
+    "prompt": "Use case: precise-object-edit. Fix monkey route continuity ONLY. In FIRST large top panel REMOVE the monkey and its sword from the right tree branch; replace only that patch with matching empty branch/background. Monkey is temporarily offscreen left at this moment. SECOND small panel at middle LEFT: show the sole monkey gripping the sole wooden sword short handle, moving RIGHT along a connecting branch from the thin tree on LEFT toward the thick trunk on RIGHT. Its head faces RIGHT, tail trails LEFT. One monkey, one sword, a few motion marks pointing right. Keep panels 3 and 4 exactly unchanged: girl foot and final reaching scene. Preserve all dialogue and page layout and human figures unchanged."
+  },
+  {
+    "page": 6,
+    "prompt": "Use case: precise-object-edit. Change ONLY the stick in Xiaotong's hands in the FINAL bottom wide panel of this four-panel comic. Replace the smooth thick straight baton with a slender natural brown TWIG about 70cm long and finger-thick, slightly irregular, a clearly visible tiny Y-shaped fork near its upper tip, no guard or sword handle. It must match the twig already in her hands in the top-right panel. Keep her hands gripping it naturally. Keep every other element of the page, monkey and its unique wooden sword, exact Chinese text, panel layout, both human faces, scenery and colors unchanged."
+  },
+  {
+    "page": 7,
+    "prompt": "Use case: precise-object-edit. Preserve this four-panel comic's characters, all text and page layout. Correct ONLY wooden sword anatomy and its contact in LARGE THIRD PANEL plus sword in BOTTOM FOURTH PANEL. ONE ordinary wooden practice sword, total45cm, blunt flat blade34cm, short cylindrical grip9cm, small crossguard. THIRD PANEL: monkey hand at center-left grips SHORT HANDLE; guard immediately outside fist, long single blunt blade extends diagonally DOWN-LEFT away from its body. Xiaotong's thin twig reaches from right and contacts the OUTER HALF OF THE LONG BLADE, well BELOW and LEFT of the monkey's hand, NEVER contacts guard, fist, head or chest. Twig slightly flexes at contact, use only two tiny dark vibration marks, NO white starburst, no sparks. Monkey fingers begin opening but remain touching grip; feet still departing branch. No extra blade, no cross-shaped double sword. FOURTH PANEL: released sword travels down-left, long blade extending left, SHORT handle at right; handle only one-fifth length, same shape as sword in first panel. Preserve everything else exactly."
+  },
+  {
+    "page": 8,
+    "prompt": "Use case: precise-object-edit. Only adjust Yuwen Yi's legs and ground dust in MAIN THIRD PANEL. His catching upper body and both hands holding one wooden sword, face, text, costume and all other panels remain unchanged. Make the catch an ordinary small absorption: feet about shoulder-width apart, one half-step forward, knees only gently flexed, both boots grounded, not a wide martial horse stance or deep crouch. Torso remains gently forward and elbows folded inward as currently. Brown scarf's loose fabric should move gently forward in front of ribs from stopping. Remove explosive dust cloud around boots; leave just a few displaced leaves and a little floating dust. This is a weak convalescent catching a lightweight wooden sword, not a power move. No added text."
+  },
+  {
+    "page": 9,
+    "prompt": "Use case: precise-object-edit. Correct ONLY the wooden sword in FIRST and SECOND upper panels, and its holding hands as needed. The sword has exactly ONE short rounded cylindrical grip9cm, one small guard, one long flat blunt blade34cm. FIRST panel: Yuwen Yi supports and inspects a normal sword horizontally, ROUND SHORT HANDLE on LEFT, guard next, long blade extends RIGHT. Remove the mistaken long pointed portion on left of guard; that must be a short rounded handle. SECOND panel: he hands the sword HANDLE-FIRST toward Xiaotong on RIGHT. The short handle and guard are at RIGHT near her hands, long blunt blade extends LEFT over his supporting palm. Xiaotong's both hands receive the SHORT HANDLE; Yuwen Yi's hands support blade from underneath on left. Do not make Xiaotong receive blade-first. Preserve all dialogue, faces, costumes, other panels and page layout unchanged."
+  },
+  {
+    "page": 10,
+    "prompt": "Use case: precise-object-edit. Keep this five-panel page, every exact Chinese word, faces, poses, costumes, lighting unchanged. Fix three prop continuity details only. FOURTH panel: add one small dark brown ceramic medicine bowl gently steaming on the table immediately in front of seated Yuwen Yi, same bowl that is pushed in last panel. Xiaotong's object being wiped must visibly be a wooden SWORD with long blunt blade, small simple crossguard and a SHORT rounded grip, not a plain wooden plank. LAST panel: show Xiaotong's small hand and recognizable pink sleeve entering naturally from the LEFT edge and holding the white cloth against that same wooden sword lying across foreground. The sword has its short rounded grip and small crossguard at foreground left, long blunt blade extends right. Her hand is actually wiping, not a loose cloth wiping itself. Keep exactly one medicine bowl and one sword per panel. No extra bowls, no added characters' faces, no new text."
+  },
+  {
+    "page": 7,
+    "prompt": "Use case: precise-object-edit. Change ONLY the wood-sword-and-twig contact in the LARGE THIRD PANEL of this four-panel comic; all other panels, characters, faces, dialogue and layout remain exactly as is. Current twig incorrectly meets the monkey's hand. Reorient ONLY the wooden sword so its SHORT HANDLE is on LEFT in monkey fist, its SMALL GUARD is just to RIGHT of fist, and its LONG BLUNT BLADE extends to RIGHT into empty space BETWEEN monkey and girl. Monkey's gripping fist is around horizontal coordinate 290 on this1024px page; guard around340; blade extends right to550. Xiaotong holds her slender twig on the right around650; twig tip from lower-right meets the UNDERSIDE of the blade at x500, at least150px AWAY FROM the monkey fist. Clear visible gap between contact and hand. Twig pushes the blade up-left, slightly bending, two tiny dark vibration marks only. No sparks or glowing starburst. Monkey fingers are just opening around the short grip. One sword, no doubled sword, no extra branch. Preserve monkey and girl bodies, positions and all text, including 笃！. Sword is short cylindrical handle then guard then one single rounded-tip blade, not cross-shaped. Bottom panel remains the later released sword."
+  }
+]

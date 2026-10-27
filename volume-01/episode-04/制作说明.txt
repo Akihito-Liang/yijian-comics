@@ -1,0 +1,12 @@
+第004话《猎户少年》
+12页，53格。按用户逐格稿制作；不作为其他话的固定页数标准。
+使用内置 image_gen 逐页生成和局部修稿。
+原始分镜：user-storyboard.txt
+逐页提示词：prompts/
+修订提示词：correction-prompts.json
+选用成稿来源：selected-images.json
+所有成稿：assets/
+本地阅读：../../read.html?episode=004
+下载：episode-004.cbz
+已修订：第4页棍长，第6页多余棍段，第10页绳索时间顺序，第11页布巾归属，第12页绳索与扛棍。
+卫霍造型依据媒体转载的原作游戏界面，不将媒体渠道标成官方发布。

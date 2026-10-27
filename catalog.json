@@ -1,0 +1,50 @@
+{
+  "title": "逸剑风云决",
+  "subtitle": "少年武侠彩色漫画",
+  "chapters": [
+    {
+      "id": "volume-01",
+      "number": "一",
+      "title": "初入江湖",
+      "description": "从葬龙谷的一趟镖，到梧桐村的一碗药。少年的江湖，从这里开始。",
+      "episodes": [
+        {
+          "id": "001",
+          "title": "葬龙谷的风",
+          "summary": "一趟寻常的镖，走进了无法回头的风里。",
+          "pages": 12,
+          "version": "动作重绘版",
+          "base": "volume-01/revision-v3/episode-01/assets/",
+          "download": "volume-01/revision-v3/episode-01/episode-001-v3.cbz"
+        },
+        {
+          "id": "002",
+          "title": "梧桐梦醒",
+          "summary": "陌生的晨光里，有人接住他尚未站稳的身子。",
+          "pages": 6,
+          "version": "动作重绘版",
+          "base": "volume-01/revision-v3/episode-02/assets/",
+          "download": "volume-01/revision-v3/episode-02/episode-002-v3.cbz"
+        },
+        {
+          "id": "003",
+          "title": "药香与木剑",
+          "summary": "追不上时，先站稳。一次配合，一把失而复得的木剑。",
+          "pages": 10,
+          "version": "十页重构版",
+          "base": "volume-01/episode-03/reconstruction-v4/assets/",
+          "download": "volume-01/episode-03/reconstruction-v4/episode-003-reconstruction-v4.cbz"
+        },
+        {
+          "id": "004",
+          "title": "猎户少年",
+          "summary": "一声提醒，一次换位。菜地林缘，结识寡言的猎户少年。",
+          "pages": 12,
+          "version": "猎户初识篇",
+          "base": "volume-01/episode-04/assets/",
+          "download": "volume-01/episode-04/episode-004.cbz"
+        }
+      ]
+    }
+  ]
+}
