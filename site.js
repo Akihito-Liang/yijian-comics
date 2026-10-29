@@ -27,7 +27,7 @@ async function main(){
    for(const episode of chapter.episodes){
     const progress=saved[episode.id];const page=pageNumber(progress?.page,episode.pages);const card=el('article','episode-card');const cover=link('',readerURL(episode,page),'cover-link');cover.setAttribute('aria-label',`阅读第${episode.id}话 ${episode.title}`);
     const img=el('img');img.src=imageURL(episode,1);img.alt=`《${episode.title}》漫画首页`;img.width=1024;img.height=1536;cover.append(img,el('span','episode-badge',`第 ${episode.id} 话`));const bottom=el('span','cover-bottom');bottom.append(el('span','',`${episode.pages} 页`),el('span','',progress?`读到第 ${page} 页`:'开始阅读 ↗'));cover.append(bottom);
-    const copy=el('div','card-copy');copy.append(el('div','card-number',episode.version),el('h3','',episode.title),el('p','',episode.summary));const actions=el('div','card-actions');actions.append(link(progress?'继续阅读 →':'开始阅读 →',readerURL(episode,page)));const download=link('下载 CBZ',episode.download);download.download='';actions.append(download);copy.append(actions);card.append(cover,copy);grid.append(card);
+    const copy=el('div','card-copy');copy.append(el('div','card-number',episode.version),el('h3','',episode.title),el('p','',episode.summary));const actions=el('div','card-actions');actions.append(link(progress?'继续阅读 →':'开始阅读 →',readerURL(episode,page)));copy.append(actions);card.append(cover,copy);grid.append(card);
    }
   }
   for(const chapter of catalog.chapters){const a=link('',`#${chapter.id}`,'chapter-nav-link');a.dataset.chapter=chapter.id;a.append(el('small','',`第${chapter.number}卷`),el('strong','',chapter.title));$('#chapter-nav').append(a)}
@@ -39,7 +39,7 @@ async function main(){
   if(!episode){$('#reading-pages').append(el('p','','没有找到这一话，请返回卷章目录选择。'));$('#reader-end').hidden=true;$('#page-select').disabled=true;return}
   document.title=`${episode.title} · 第${episode.id}话 | 逸剑风云决`;
   $('#reader-title').textContent=`${episode.id} · ${episode.title}`;$('#end-title').textContent=episode.title;$('#chapter-label').textContent=`第${episode.chapter.number}卷 · ${episode.chapter.title}`;
-  const back=`index.html#${episode.chapter.id}`;$('#back').href=back;$('#end-back').href=back;$('#download').href=episode.download;
+  const back=`index.html#${episode.chapter.id}`;$('#back').href=back;$('#end-back').href=back;
   const index=episodes.findIndex(e=>e.id===id);
   for(const [name,other] of [['previous',episodes[index-1]],['next',episodes[index+1]]])if(other){for(const suffix of ['', '-top']){const a=$(`#${name}${suffix}`);a.hidden=false;a.href=readerURL(other);a.textContent=name==='next'?`下一话：${other.title} →`:`← 上一话：${other.title}`}}
   for(let p=1;p<=episode.pages;p++){
